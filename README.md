@@ -1,2 +1,2 @@
-# Git help
+# Git help & Tips
 
