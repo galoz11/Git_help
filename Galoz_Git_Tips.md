@@ -1,7 +1,9 @@
 ## Here is how I rename a tag old to new:
 
 git tag new old
+
 git tag -d old
+
 git push origin new :old
 
 
